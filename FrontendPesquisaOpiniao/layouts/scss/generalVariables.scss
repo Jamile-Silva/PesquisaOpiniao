@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'BoschSans-Bold';
+    src: url("@/assets/BoschSans-Bold.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'BoschSans-Regular';
+    src: url("@/assets/BoschSans-Regular.ttf");
+    font-weight: normal;
+}
+
+:root{
+    --white_absolute: #FFFFFF;
+    --gray_light: #E0E2E5;
+    --gray_shadow: #D0D4D8;
+    --red_default: #ED0007;
+    --blue_default: #007BC0;
+    --cyan_default: #18837E;
+    --green_default: #00884A;
+    --purple_default: #9E2896;
+}
